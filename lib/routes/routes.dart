@@ -1,4 +1,4 @@
-import 'package:app_chat2/pages/chat_page.dart';
+import 'package:app_chat2/pages/chat_screen.dart';
 import 'package:app_chat2/pages/loading_page.dart';
 import 'package:app_chat2/pages/login_page.dart';
 import 'package:app_chat2/pages/registrer_page.dart';
